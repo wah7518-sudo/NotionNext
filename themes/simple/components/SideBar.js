@@ -15,7 +15,7 @@ export default function SideBar (props) {
 
             <Catalog {...props} />
 
-            //<Live2D />
+            
 
             <Announcement post={notice} />
 
