@@ -9,7 +9,4 @@ import WWAds from '@/components/WWAds'
  * @param {*} props
  * @returns
  */
-export default function SideBar (props) {
-  const { notice } = props
- 
-}
+
