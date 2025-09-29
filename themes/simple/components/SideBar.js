@@ -11,16 +11,5 @@ import WWAds from '@/components/WWAds'
  */
 export default function SideBar (props) {
   const { notice } = props
-  return (<>
-
-            <Catalog {...props} />
-
-            
-
-            <Announcement post={notice} />
-
-            <AdSlot/>
-            
-
-    </>)
+ 
 }
