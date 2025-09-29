@@ -20,7 +20,7 @@ export default function SideBar (props) {
             <Announcement post={notice} />
 
             <AdSlot/>
-            <WWAds orientation="vertical" className="w-full" />
+            
 
     </>)
 }
